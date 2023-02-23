@@ -1,2 +1,2 @@
-# threeJs_test
-测试threejs
+# threejs test
+vite + vue + threejs
